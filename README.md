@@ -20,6 +20,6 @@ pip install -r requirements.txt
 <b>Step 6: Run the app <br></b>
 streamlit run flasgger_app.py
 
-<b>Step 9: Execute requests on http://localhost:8501<br></b>
+<b>Step 7: Execute requests on http://localhost:8501<br></b>
 
 
