@@ -20,12 +20,6 @@ pip install -r requirements.txt
 <b>Step 6: Run the app <br></b>
 streamlit run flasgger_app.py
 
-At this step, you can open another instance of Anaconda prompt and use docker ps command to check your container
-
 <b>Step 9: Execute requests on http://localhost:5000/apidocs/<br></b>
-
-<b>Note :</b> If you are using Docker Toolbox: Go to the ip on which your docker toolbox is configured
-
-
 
 
